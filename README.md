@@ -1,6 +1,6 @@
 # On line pharmacy web application - [Aplicação web de uma farmácia on line]
 
-### Updating Daily - [Em atualização Diariamente]
+### Updating Daily - [Em atualização Diariamente] :hourglass:
 
 
 ## ABSTRACT:
