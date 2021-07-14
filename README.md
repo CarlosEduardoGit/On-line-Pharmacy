@@ -1,6 +1,6 @@
-# On line pharmacy web application - [Aplicação web de uma farmácia on line]
+# :heavy_check_mark: On line pharmacy web application - [Aplicação web de uma farmácia on line]
 
-### :calendar: Updating Daily - [Em atualização Diariamente] :hourglass:<br>
+### :calendar: Updating Daily - :hourglass: [Em atualização Diariamente] :heavy_check_mark:<br><br>
 
 
  ## :page_with_curl: ABSTRACT:
